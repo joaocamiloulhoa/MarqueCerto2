@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "678447087047",
+    "firebase_url": "https://marquecerto2.firebaseio.com",
+    "project_id": "marquecerto2",
+    "storage_bucket": "marquecerto2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678447087047:android:d6e1cdfdbf4d511a",
+        "android_client_info": {
+          "package_name": "com.example.usuario.marquecerto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678447087047-ah19e9639m9n85qnrt9rel96t0pf5noh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.usuario.marquecerto",
+            "certificate_hash": "ed8d76ed897105d2d1e7febd85422b4f280df35e"
+          }
+        },
+        {
+          "client_id": "678447087047-ffllv23umpi2saqniqvimv5mov8bku8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATfbl4hhgRc_VFD9wyoxQ-VYiok0ong30"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678447087047-ffllv23umpi2saqniqvimv5mov8bku8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

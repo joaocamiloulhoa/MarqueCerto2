@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MarqueCerto</string>
+    <string name="esqueceusenha">Esqueceu a senha?</string>
+    <string name="newCount">Criar uma conta</string>
+    <string name="esqueceuasenha">Esqueceu a Senha?</string>
+    <string name="entrar">Entrar</string>
+    <string name="senha">Digite seua senha</string>
+    <string name="title_activity_pagina_inicial">PaginaInicial</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
